@@ -1,0 +1,4 @@
+interface:
+  display_name: "KarmenLoop Meeting Actions"
+  short_description: "Meeting Actions with reproducible local checks"
+  default_prompt: "Use $karmen-meeting-actions to extract action items from this meeting and show unresolved owners."

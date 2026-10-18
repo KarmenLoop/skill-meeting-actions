@@ -1,0 +1,32 @@
+{
+  "actions": [
+    {
+      "id": "a1",
+      "task": "Send the draft",
+      "owner": "Alex",
+      "due": "2026-10-21",
+      "quote": "I will send the draft by October 21.",
+      "line_start": 1,
+      "line_end": 1,
+      "evidence_verified": true,
+      "gaps": [],
+      "ready": true
+    },
+    {
+      "id": "a2",
+      "task": "Review the budget",
+      "owner": null,
+      "due": null,
+      "quote": "We still need someone to review the budget.",
+      "line_start": 2,
+      "line_end": 2,
+      "evidence_verified": true,
+      "gaps": [
+        "owner_missing",
+        "due_missing"
+      ],
+      "ready": false
+    }
+  ],
+  "ready_count": 1
+}
