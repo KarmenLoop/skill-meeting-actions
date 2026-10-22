@@ -3,7 +3,7 @@ name: karmen-meeting-actions
 description: "Produce action items that remain traceable to a meeting transcript. Use when a user asks for meeting minutes, owners, or follow-up actions."
 metadata:
   author: KarmenLoop
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # Meeting Actions
